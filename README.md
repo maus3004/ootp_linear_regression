@@ -1,3 +1,3 @@
 ### OOTP Player Performance Calculator
 
-Still a work in progress
+Final model is still a work in progress
